@@ -29,7 +29,7 @@ setup(
     install_requires=[
         "amazon-braket-sdk>=1.35.1",
         "scipy>=1.5.2",
-        "pennylane>=0.29.1",
+        "pennylane>=0.30.0",
         "openfermion>=1.5.1",
     ],
     extras_require={
